@@ -1,5 +1,5 @@
 # Uncomment the following lines to define your default indexer and rpc urls
-#indexer_url = ""
-#rpc_url = ""
-#masp_indexer_url = ""
-#localnet_enabled = false
+indexer_url = "https://indexer.namada.tududes.com:443"
+rpc_url = "https://rpc.namada.tududes.com:443"
+masp_indexer_url = "https://masp.namada.tududes.com:443"
+localnet_enabled = false
